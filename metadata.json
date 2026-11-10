@@ -1,0 +1,6 @@
+{
+  "name": "CricSphere Pro - International Cricket & Inventory Management System",
+  "description": "Professional ICC-grade cricket tournament management, transactional live scoring engine, and DSA Stack-powered equipment inventory system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
